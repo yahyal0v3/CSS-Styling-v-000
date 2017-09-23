@@ -26,3 +26,14 @@ figcaption {
 #logo h1, h2 {
   font-family: 'Clicker Script', cursive;
 }
+
+a:visited, a:link {
+  color: darkgreen;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  color: gray;
+  text-decoration: none;
+  font-weight: bold;
+}

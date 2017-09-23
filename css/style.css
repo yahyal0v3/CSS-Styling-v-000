@@ -9,7 +9,7 @@ p {
 
 figcaption {
   font: normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
-  color: #00ff00;
+  color: darkgreen;
   text-align: right;
 }
 
@@ -20,5 +20,11 @@ figcaption {
 }
 
 #logo {
-  background-color: red;
+  background-color: darkgreen;
 }
+
+#logo h1, h2 {
+  font-family: 'Clicker Script', cursive;
+}
+
+
